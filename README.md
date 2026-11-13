@@ -130,5 +130,5 @@ In `process_video.py`, you can tune the model and counting line coordinates to m
 
 ## Project Team & Course Info
 
-- **Course**: [Data Analytics]
-- **Author**: [Jericho Antonio O. Castillo]
+- **Course**: Data Analytics
+- **Author**: Jericho Antonio O. Castillo
