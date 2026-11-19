@@ -16,7 +16,7 @@ A web-based traffic monitoring and vehicle counting system built for our Data An
 Watch the full prototype walkthrough here: https://drive.google.com/file/d/11Maxuc_RZT7Iwl_p9LhHKPbVrw-VfEW1/view?usp=sharing
 
 ## 📄 Prototype Screenshots
-View the full PDF documentation of the prototype screens: [Prototype Screenshots (PDF)](./interfaces)
+View the full PDF documentation of the prototype screens: [Prototype Screenshots (PDF)](./interfaces/TrafficAI.pdf)
 
 ---
 
